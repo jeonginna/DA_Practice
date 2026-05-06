@@ -9,4 +9,4 @@ def solution(dot):
     else:                          # x>0, y<0: 제4사분면
         return 4
 
-출처 : https://school.programmers.co.kr/learn/courses/30/lessons/120841
+문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/120841
