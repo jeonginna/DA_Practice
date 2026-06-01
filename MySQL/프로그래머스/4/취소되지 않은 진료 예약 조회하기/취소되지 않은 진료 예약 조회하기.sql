@@ -13,4 +13,4 @@ WHERE APNT_CNCL_YN = 'N'
     AND a.APNT_YMD >= '2022-04-13' AND a.APNT_YMD < '2022-04-14'
 ORDER BY a.APNT_YMD;
 
-문제 : https://school.programmers.co.kr/learn/courses/30/lessons/132204
+출처 : https://school.programmers.co.kr/learn/courses/30/lessons/132204
