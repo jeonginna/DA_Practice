@@ -5,4 +5,4 @@ GROUP BY FLAVOR
 ORDER BY SUM(A.TOTAL_ORDER) + (B.TOTAL_ORDER) DESC
 LIMIT 3;
 
-https://school.programmers.co.kr/learn/courses/30/lessons/133027
+문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/133027
